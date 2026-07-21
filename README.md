@@ -246,7 +246,7 @@ INSERT INTO public.portfolio_comments (
 SELECT
   'developed by fas. This project is open-source and free to use.',
   'fas',
-  'https://egwzigagwyrmwjsrebzx.supabase.co/storage/v1/object/public/profile-images/profile-images/1771939421615_xx2q8hgya6e.jpeg',
+  'https://egwzigagwyrmwjsrebzx.supabase.co/storage/v1/object/public/profile-images/profile-images/',
   true,
   now()
 WHERE NOT EXISTS (
