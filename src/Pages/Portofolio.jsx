@@ -108,7 +108,7 @@ const techStacks = [
   { icon: "css.svg", language: "CSS" },
   { icon: "bootstrap.svg", language: "Bootstrap" },
   { icon: "vercel.svg", language: "Vercel" },
-  { icon: "Mikrotik.png", language: "Mikrotik" },
+  { icon: "mikrotik.svg", language: "Mikrotik" },
   { icon: "figma-icon.svg", language: "Figma" },
 ];
 
