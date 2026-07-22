@@ -143,10 +143,10 @@ const Home = () => {
         <title>Fadli Aziz Setiawan — IT Support</title>
         <meta name="description" content="Website resmi Eki Zulfar Rachman, Front-End Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
      <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://ekizr.com" />
+        <link rel="canonical" href="https://portofoliofas-sage.vercel.app" />
         <meta property="og:title" content="Fadli Aziz Setiawan — IT Support" />
      <meta property="og:description" content="Website Portofolio Fadli Aziz Setiawan, IT Support." />
-        <meta property="og:url" content="https://ekizr.com" />
+        <meta property="og:url" content="https://portofoliofas-sage.vercel.app" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
           {
@@ -154,10 +154,10 @@ const Home = () => {
             "@type": "Person",
             "name": "Fadli Aziz Setiawan",
             "jobTitle": "IT Support ",
-            "url": "https://ekizr.com",
+            "url": "https://portofoliofas-sage.vercel.app",
             "sameAs": [
               "https://github.com/Fadli99",
-              "https://www.linkedin.com/in/ekizr/",
+              "https://www.linkedin.com/in/fadli-aziz-setiawan/",
               "https://www.instagram.com/f_a_setiawan/"
             ]
           }
