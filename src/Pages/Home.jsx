@@ -80,7 +80,7 @@ const WORDS = ["Networking", "Tech Enthusiast"];
 const TECH_STACK = ["Konfigurasi Jaringan Mikrotik", "Figma", "Adobe XD", "Pyhton", "HTML/CSS", "MySQL", "PostgreeSQL", "Supabase"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/Fadli99", label: "GitHub Profile" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/ekizr/", label: "LinkedIn Profile" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/fadli-aziz-setiawan/", label: "LinkedIn Profile" },
   { icon: Instagram, link: "https://www.instagram.com/f_a_setiawan/?hl=id", label: "Instagram Profile" }
 ];
 
